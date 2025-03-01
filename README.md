@@ -1,0 +1,1 @@
+Analysis of stool metagenomes and untargeted metabolomics in 683 participants (131 patients with MC, 159 patients with chronic diarrhea controls, and 393 age- and sex-matched controls without diarrhea) from the Massachusetts General Hospital.
